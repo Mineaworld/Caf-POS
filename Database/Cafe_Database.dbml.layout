@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Cafe_Database">
+  <DataContextMoniker Name="/Cafe_DatabaseDataContext" />
+  <nestedChildShapes>
+    <classShape Id="db1100fc-f75f-4e3f-82eb-3c175c86ed65" absoluteBounds="0.5, 3.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/tblPurchase" />
+      <nestedChildShapes>
+        <elementListCompartment Id="29c7024b-8747-41a6-ae4a-da7e84c69ed0" absoluteBounds="0.51500000000000012, 3.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7ad39389-aba7-42d9-8b77-451ec639843b" absoluteBounds="5.125, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/tblPurchaseDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="303d459b-aeb4-4252-aab8-1abd1c89b0ea" absoluteBounds="5.14, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="375ec128-d7ab-4a63-addf-f14a78b9ebae" absoluteBounds="0.5, 0.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/tblCustomer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b176f4fc-4432-40c9-bbee-6c1cfd88a819" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e6f0495-9117-4cc4-b305-693e5aebf14e" absoluteBounds="5.625, 3.25, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/tblCategory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="186f36c1-d9ce-44af-804a-800fd2a938e3" absoluteBounds="5.6400000000000006, 3.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5c42c779-5d32-4a91-95e3-b88bea5945cc" absoluteBounds="2.875, 0.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/tblProduct" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b814fc1c-1248-431d-be2e-614ffc7d6c1f" absoluteBounds="2.89, 0.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b4928c15-e194-46a0-a749-e631049c9f2d" isExpanded="false" absoluteBounds="0.5, 5, 2, 0.45">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/v_AllMenu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5375ec5d-6ca4-4184-a519-4d5e5e0b45a0" absoluteBounds="0.51500000000000012, 5.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f7975e56-051a-4cd7-8186-9423b66c46f0" isExpanded="false" absoluteBounds="2.875, 5, 2, 0.45">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/v_Coffee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ea017c6d-6cb5-4a93-abda-aef9413be7a9" absoluteBounds="2.89, 5.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5027fe5b-ecbc-4dd4-b04b-ccae91e370e4" absoluteBounds="7.5, 1.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/tblSaleDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="65bce95c-89d9-4e08-a263-60b57475caca" absoluteBounds="7.515, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="284d68e0-c87a-4672-87e9-a7a3a1e80d20" absoluteBounds="3.25, 3.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/tblSale" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d333f3f3-7940-498b-a2f7-98a469900178" absoluteBounds="3.265, 3.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="564be352-cb91-4de4-b25c-56b7b15aef20" isExpanded="false" absoluteBounds="5.125, 5, 2, 0.45">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/V_order_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="40cb73de-3449-43ad-ab7d-8440dec646a5" absoluteBounds="5.14, 5.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="770f1f13-b6f3-4cd6-b97f-21b8cf0dd3ce" isExpanded="false" absoluteBounds="7.25, 5, 2, 0.45">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/V_Report" />
+      <nestedChildShapes>
+        <elementListCompartment Id="acb50463-aee3-4b48-b5ac-492090fdc5ac" absoluteBounds="7.265, 5.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e617778c-5b0c-422d-84e9-12f621122756" isExpanded="false" absoluteBounds="8, 4, 2, 0.45">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/V_PrintReceipt" />
+      <nestedChildShapes>
+        <elementListCompartment Id="308c977e-e60d-4e1c-ac0e-1bc2cd0c6da7" absoluteBounds="8.015, 4.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="73b7a152-6d23-435c-b80f-43b4df2fe47b" isExpanded="false" absoluteBounds="8.25, 5.75, 2, 0.45">
+      <DataClassMoniker Name="/Cafe_DatabaseDataContext/V_Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3222f848-79cf-49f5-a9de-1eb89d062277" absoluteBounds="8.265, 6.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
