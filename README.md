@@ -37,7 +37,7 @@ A POS Cafe system developed in C# with a WinForms interface and integrated with 
 
 ## Usage
 
-- Login using the default credentials
+- Login using the default credentials (Admin - 123)
 - Navigate through the dashboard to access different features.
 - Add products, manage customers, and process sales seamlessly.
 
