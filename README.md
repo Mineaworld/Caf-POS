@@ -1,4 +1,4 @@
-# Cafe POS Sytem
+![Screenshot 2024-09-28 194609](https://github.com/user-attachments/assets/188b79d3-ae19-42ba-8b31-62b5e89d1e4c)# Cafe POS Sytem
 
 ## Overview 
 
@@ -43,7 +43,7 @@ A POS Cafe system developed in C# with a WinForms interface and integrated with 
 
 ## Screenshots
 ![Screenshot 2024-09-28 194525](https://github.com/user-attachments/assets/56236d68-4410-40b0-8fac-659df25f5b43)
-![Screenshot 2024-09-28 194609](https://github.com/user-attachments/assets/12c5dab3-5f99-483b-8134-634dd45eb976)
+![Screenshot 2024-09-28 194609](https://github.com/user-attachments/assets/628e7e4b-745d-41c2-856c-3901518cc072)
 ![Screenshot 2024-09-28 194715](https://github.com/user-attachments/assets/52489829-0333-483a-8499-d8d0df13de87)
 ![Screenshot 2024-09-28 195644](https://github.com/user-attachments/assets/c2769c86-fcf0-4dff-940e-7b1be94c9b7a)
 ![Screenshot 2024-09-28 201616](https://github.com/user-attachments/assets/b9c22c7d-3138-41d9-9dca-651ee6b86f88)
