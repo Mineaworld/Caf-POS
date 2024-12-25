@@ -1,4 +1,4 @@
-![Screenshot 2024-09-28 194609](https://github.com/user-attachments/assets/188b79d3-ae19-42ba-8b31-62b5e89d1e4c)# Cafe POS Sytem
+# Cafe POS Sytem
 
 ## Overview 
 
